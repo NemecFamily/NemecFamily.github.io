@@ -1243,6 +1243,7 @@ section.form .container {
 
 
 
+
 #Lydia-starter .lead {
   color: #93a3a7;
   font-style: italic;
@@ -1308,13 +1309,17 @@ section.form .container {
   text-align: right;
   font-size: 60px;
 }
-#talks-Lydia H1 {
-  color: #595959;
-  font-size: 60px;
+#accordion1-3v B {
   font-family: 'Roboto', sans-serif;
+  font-size: 60px;
 }
-#talks-Lydia DIV {
-  color: #212121;
+#accordion1-3v H1 {
+  color: #595959;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+}
+#accordion1-3v P {
+  font-size: 16px;
 }
 #header-twitter .mbr-section-title,
 #header-twitter .mbr-section-subtitle {
