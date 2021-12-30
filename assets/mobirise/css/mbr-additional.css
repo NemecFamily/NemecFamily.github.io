@@ -1431,131 +1431,6 @@ section.form .container {
 
 
 
-
-
-#Norbert-startsite .lead {
-  color: #93a3a7;
-  font-style: italic;
-}
-#Norbert-startsite .mbr-section-title {
-  text-align: center;
-}
-#Norbert-about .lead {
-  color: #ffffff;
-}
-#Norbert-about .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#Norbert-about .mbr-section-title {
-  color: #6a0000;
-}
-#Norbert-about .imgTitle {
-  text-align: right;
-  font-family: 'Dancing Script', handwriting;
-}
-#Norbert-about-2 P {
-  color: #ecf0f1;
-  text-align: justify;
-}
-#Publications-header-Norbert .mbr-section-title,
-#Publications-header-Norbert .mbr-section-subtitle {
-  text-align: center;
-}
-#Publications-header-Norbert H3 {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 100px;
-}
-#ScientificArticles-Norbert-header .mbr-section-title,
-#ScientificArticles-Norbert-header .mbr-section-subtitle {
-  text-align: center;
-}
-#ScientificArticles-Norbert-header H3 {
-  font-family: 'Roboto', sans-serif;
-  color: #595959;
-  text-align: right;
-  font-size: 60px;
-}
-#footer-global .mbr-section-text {
-  color: #fff;
-}
-#footer-global P {
-  color: #989898;
-  font-size: 12px;
-}
-#menu-global .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-global .navbar-caption {
-  color: #ffffff;
-  font-family: 'Dancing Script', handwriting;
-  font-size: 18px;
-}
-#menu-global .navbar-toggler {
-  color: #595959;
-}
-#menu-global .close-icon::before,
-#menu-global .close-icon::after {
-  background-color: #595959;
-}
-#menu-global .link,
-#menu-global .dropdown-item {
-  color: #595959;
-  font-family: 'Roboto', sans-serif;
-}
-#menu-global .link {
-  font-size: 0.875rem;
-}
-#menu-global .dropdown-item,
-#menu-global .nav-dropdown-sm .link {
-  font-size: 0.948rem;
-}
-#menu-global .link:hover,
-#menu-global .link:focus {
-  color: #595959;
-}
-#menu-global .dropdown-item:hover::before,
-#menu-global .dropdown-item:focus::before {
-  background: #595959;
-}
-#menu-global .dropdown-item:hover,
-#menu-global .dropdown-item:focus {
-  color: #595959;
-}
-#menu-global .link[aria-expanded="true"],
-#menu-global .dropdown-menu {
-  background: #cfd9db;
-}
-#menu-global .nav-dropdown-sm .link:focus,
-#menu-global .nav-dropdown-sm .link:hover,
-#menu-global .nav-dropdown-sm .dropdown-item:focus,
-#menu-global .nav-dropdown-sm .dropdown-item:hover {
-  background: #e3e9eb!important;
-}
-#menu-global .navbar,
-#menu-global .nav-dropdown-sm,
-#menu-global .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-global .nav-dropdown-sm .dropdown-menu {
-  background: #ecf0f1;
-}
-#menu-global .bg-color.transparent .link {
-  color: #595959;
-  transition: none;
-}
-#menu-global .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-global .bg-color.transparent.opened .link:hover,
-#menu-global .bg-color.transparent.opened .link:focus {
-  color: #595959;
-}
-#menu-global .link[aria-expanded="true"],
-#menu-global .dropdown-item[aria-expanded="true"] {
-  color: #595959!important;
-}
-
-
-
 #menu-global .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1726,4 +1601,129 @@ section.form .container {
 }
 #TermsAndConditions-header H3 {
   font-family: 'Oxygen', sans-serif;
+}
+
+
+
+
+
+#Norbert-startsite .lead {
+  color: #93a3a7;
+  font-style: italic;
+}
+#Norbert-startsite .mbr-section-title {
+  text-align: center;
+}
+#Norbert-about .lead {
+  color: #ffffff;
+}
+#Norbert-about .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#Norbert-about .mbr-section-title {
+  color: #6a0000;
+}
+#Norbert-about .imgTitle {
+  text-align: right;
+  font-family: 'Dancing Script', handwriting;
+}
+#Norbert-about-2 P {
+  color: #ecf0f1;
+  text-align: justify;
+}
+#Publications-header-Norbert .mbr-section-title,
+#Publications-header-Norbert .mbr-section-subtitle {
+  text-align: center;
+}
+#Publications-header-Norbert H3 {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+}
+#ScientificArticles-Norbert-header .mbr-section-title,
+#ScientificArticles-Norbert-header .mbr-section-subtitle {
+  text-align: center;
+}
+#ScientificArticles-Norbert-header H3 {
+  font-family: 'Roboto', sans-serif;
+  color: #595959;
+  text-align: right;
+  font-size: 60px;
+}
+#footer-global .mbr-section-text {
+  color: #fff;
+}
+#footer-global P {
+  color: #989898;
+  font-size: 12px;
+}
+#menu-global .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-global .navbar-caption {
+  color: #ffffff;
+  font-family: 'Dancing Script', handwriting;
+  font-size: 18px;
+}
+#menu-global .navbar-toggler {
+  color: #595959;
+}
+#menu-global .close-icon::before,
+#menu-global .close-icon::after {
+  background-color: #595959;
+}
+#menu-global .link,
+#menu-global .dropdown-item {
+  color: #595959;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-global .link {
+  font-size: 0.875rem;
+}
+#menu-global .dropdown-item,
+#menu-global .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-global .link:hover,
+#menu-global .link:focus {
+  color: #595959;
+}
+#menu-global .dropdown-item:hover::before,
+#menu-global .dropdown-item:focus::before {
+  background: #595959;
+}
+#menu-global .dropdown-item:hover,
+#menu-global .dropdown-item:focus {
+  color: #595959;
+}
+#menu-global .link[aria-expanded="true"],
+#menu-global .dropdown-menu {
+  background: #cfd9db;
+}
+#menu-global .nav-dropdown-sm .link:focus,
+#menu-global .nav-dropdown-sm .link:hover,
+#menu-global .nav-dropdown-sm .dropdown-item:focus,
+#menu-global .nav-dropdown-sm .dropdown-item:hover {
+  background: #e3e9eb!important;
+}
+#menu-global .navbar,
+#menu-global .nav-dropdown-sm,
+#menu-global .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-global .nav-dropdown-sm .dropdown-menu {
+  background: #ecf0f1;
+}
+#menu-global .bg-color.transparent .link {
+  color: #595959;
+  transition: none;
+}
+#menu-global .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-global .bg-color.transparent.opened .link:hover,
+#menu-global .bg-color.transparent.opened .link:focus {
+  color: #595959;
+}
+#menu-global .link[aria-expanded="true"],
+#menu-global .dropdown-item[aria-expanded="true"] {
+  color: #595959!important;
 }
