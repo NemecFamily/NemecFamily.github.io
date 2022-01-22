@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "the Nemec family",
-    "currentPage": "norbert.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -21,13 +21,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#00bbb1",
+        "#01493e",
+        "#0044aa",
         "#232323",
         "#989898",
         "#ffc80a",
-        "#595959",
-        "#212121",
-        "#6a0000",
-        "#00bbb1"
+        "#595959"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -44,14 +44,14 @@
         "url": "https://fonts.googleapis.com/css?family=Dancing+Script:400,700"
       }
     ],
-    "uniqCompNum": 140,
+    "uniqCompNum": 143,
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "",
     "google-analytics": "",
     "imageResize": true,
-    "mbrsiteDomain": "k2m8bjqqmc",
+    "mbrsiteDomain": "acufaebs59",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -1908,8 +1908,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"outerbox\">\n    <div class=\"myDiv\">\n        <div id=\"medium-widget\"></div>\n            [JS_CODE_0]\n            [JS_CODE_1]\n    </div>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n.outerbox{\n    background-color: #989898;\n    width: 100%;\n}\n\n.myDiv {\n    margin: auto;\n    background-color: #989898;\n    width: 60%;\n    padding-top: 15px;\n    padding-bottom: 30px;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"outerbox\">\n    <div class=\"myDiv\">\n        [JS_CODE_0]<a class=\"m-story\" data-collapsed=\"false\" href=\"https://medium.com/@LydiaNemec/documenting-your-data-science-project-a-guide-to-publish-your-sphinx-code-documentation-d1afeb110696\">Documenting Your Data-Science Project — A Guide To Publish Your Sphinx Code Documentation</a>\n    </div>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n.outerbox{\n    background-color: #989898;\n    width: 100%;\n}\n\n.myDiv {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    background-color: #989898;\n    padding: 15px;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -1918,9 +1918,25 @@
           "_anchor": "medium-plugin-lydia",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script src=\"https://medium-widget.pixelpoint.io/widget.js\"></script>",
-            "<script>MediumWidget.Init({renderTo: '#medium-widget', params: {\"resource\":\"https://medium.com/@LydiaNemec\",\"postsPerLine\":2,\"limit\":5,\"picture\":\"small\",\"fields\":[\"description\",\"author\",\"claps\",\"publishAt\"],\"ratio\":\"original\"}})</script>"
+            "<script async src=\"https://static.medium.com/embed.js\"></script>"
           ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"outerbox\">\n    <div class=\"myDiv\">\n        [JS_CODE_0]<a class=\"m-story\" data-collapsed=\"false\" href=\"https://medium.com/@LydiaNemec/principal-component-analysis-pca-8133b02f11bd\">Principal Component Analysis (PCA)</a>\n    </div>\n</div>",
+          "_customCSS": "//* Type valid CSS here */\n.outerbox{\n    background-color: #989898;\n    width: 100%;\n}\n\n.myDiv {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    background-color: #989898;\n    padding: 15px;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_JSplaceholders": [
+            "<script async src=\"https://static.medium.com/embed.js\"></script>"
+          ],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-3y"
         },
         {
           "_styles": {

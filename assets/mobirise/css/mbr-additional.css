@@ -1293,11 +1293,22 @@ section.form .container {
   width: 100%;
 }
 #medium-plugin-lydia .myDiv {
-  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #989898;
-  width: 60%;
-  padding-top: 15px;
-  padding-bottom: 30px;
+  padding: 15px;
+}
+#custom-html-3y .outerbox {
+  background-color: #989898;
+  width: 100%;
+}
+#custom-html-3y .myDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #989898;
+  padding: 15px;
 }
 #ScientificArticles-Lydia .mbr-section-title,
 #ScientificArticles-Lydia .mbr-section-subtitle {
