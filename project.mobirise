@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "the Nemec family",
-    "currentPage": "lydia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -498,7 +498,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.linkedin.com/in/paulnemec/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/Luapulu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a>   <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://twitter.com/pnemec17\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.linkedin.com/in/paulnemec/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/Luapulu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a>   ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
